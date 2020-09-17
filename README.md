@@ -1,4 +1,4 @@
-PHẦN MỀM QUẢN LÝ Shop Quần Áo
+PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
 
 ---------------------------------
 
@@ -35,6 +35,12 @@ CÁCH THỰC THI CHƯƠNG TRÌNH
 CÀI ĐẶT
 
 ---------------------
-THÔNG TIN LIÊN LẠC 
+THÔNG TIN LIÊN LẠC
+<!-- UL -->
+* 18521125@gm.uit.edu.vn    
+* 18520100@gm.uit.edu.vn
+* 18521125@gm.uit.edu.vn
+
+
 
 --------------------------------------HẾT-----------------------------------------------------
